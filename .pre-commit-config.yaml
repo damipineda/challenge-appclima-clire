@@ -15,3 +15,4 @@ repos:
     rev: 6.0.0
     hooks:
       - id: flake8               # Verificar estilo de código Python (PEP8)
+      
